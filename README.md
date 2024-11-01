@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# LIVRO DE RECEITA DO DOUBLE R DINER
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O e-book é um livro da receita da famosa torta de cereja da cidade de Twin Peaks e uma pequena história do Dale Cooper.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: criação da capa do livro
+Word: edição do livro
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu sempre fui muito fã de Twin Peaks e sabia que o seriado é conhecido, também, pelas inúmeras tortas que o Dale Cooper come. Achei a receita da torta usada, traduzi para o português e contei com a ajuda do ChatGPT na hora de converter as medidas usadas em receitas americanas para os padrões brasileiros.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book de 9 páginas contém a receita da famosa torta de cereja da cidade de Twin Peaks além de uma breve história que conta a relação de Dale Cooper com tortas. O livro é escrito do ponto de vista de Gordon Cole, agente do FBI colega de Dale e interpretado pelo David Lynch.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O maior desafio foi lidar com os ajustes na criação da imagem da capa. As vezes um ajuste consertava algo que eu havia pedido, mas aí eu via algum outro ponto novo que precisava de correção.
 ```
 
-### Exemplos e Insigths
+Aqui está o pdf do livro: [Double R Diner_Cherry Pie.pdf](https://github.com/user-attachments/files/17594803/Double.R.Diner_Cherry.Pie.pdf)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
